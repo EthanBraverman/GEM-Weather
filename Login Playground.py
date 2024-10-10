@@ -4,9 +4,9 @@ print("")
 print("Please log in.")
 
 # Database of users and their respective passwords and names.
-users = ["ethan", "gianni", "minsky"]
-names = ["Ethan", "Gianni", "Mrs. Minsky"]
-passwords = ["123", "456", "789"]
+users = ["user1", "user2", "user3"]
+names = ["name1", "name2", "name3"]
+passwords = ["pass1", "pass2", "pass3"]
 
 access_granted = False
 
