@@ -3,4 +3,4 @@ Created as a AP Computer Science Principles Mid-Term project, GEM Weather is des
 <br><br>
 Created by <a href="https://github.com/ethanbraverman">Ethan Braverman</a> and <a href="https://github.com/fabulous-gio">Gianni K-R</a>
 <br><br>
-<a href="https://gemweather.com" target="_blank">gemweather.com</a>
+<a href="https://gemweather.com">gemweather.com</a>
