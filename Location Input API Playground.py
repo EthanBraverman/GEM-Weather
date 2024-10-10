@@ -1,6 +1,6 @@
 # API Keys
-positionstack_apikey = "eb3a8269f916521b7c4875580c2bae19"
-tomorrow_apikey = "ri3S35dnqBoohgKAVQVS8Npu9xoVSgk0"
+positionstack_apikey = "key"
+tomorrow_apikey = "key"
 
 location_is_correct = False
 
