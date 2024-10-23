@@ -10,8 +10,8 @@ names = ["name1", "name2", "name3"]
 passwords = ["pass1", "pass2", "pass3"]
 
 #API Keys needed for the program to function.
-positionstack_apikey = "[api key]"
-tomorrow_apikey = "[api key]"
+positionstack_apikey = "api key"
+tomorrow_apikey = "api key"
 
 # ----------------------------------------------------------------------
 
@@ -126,6 +126,7 @@ while wants_to_continue == True:
     if option_valid == False:
         wants_to_continue = True
     elif option_valid == True:
+<<<<<<< HEAD
         wtc_valid_input = False
         while wtc_valid_input == False:
             wants_to_continue_readable = input("Would you like to select another option? [y/n] ")
@@ -142,3 +143,13 @@ while wants_to_continue == True:
 
 
 print("Thank you for using GEM Weather. Have a great day!")
+=======
+        wants_to_continue_readable = input("Would you like to select another option? [y/n] ")
+        print("")
+        if wants_to_continue_readable == "y":
+            wants_to_continue = True
+        else:
+            wants_to_continue = False
+
+print("Thank you for using GEM Weather. Have a great day!")
+>>>>>>> d2c3b360381295c4567843d6a2d2fb2904326709
