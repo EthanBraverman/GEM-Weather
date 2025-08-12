@@ -1,3 +1,4 @@
+<i>Moved to <a href="https://github.com/EthanBraverman/APCS-Projects/tree/main/principles/gem-weather">EthanBraverman/APCS-Projects/principles/gem-weather</a></i>
 <h1>Welcome to GEM Weather!</h1>
 Created as a AP Computer Science Principles Create Tast, GEM Weather is designed to return different information about the weather at a given location. <b>More information coming soon as the project progresses.</b>
 <br><br>
